@@ -38,7 +38,7 @@ This is a simple node script for login NCU eeclass. 懶人專用登入程式。
    - default: the account will not logout automatically
    - You can set your own waiting time in the .env file
 
-> **Info** see installation for more details.
+> **note** see installation for more details.
 
 ### Built With
 - node.js
